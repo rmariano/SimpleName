@@ -1,0 +1,10 @@
+.this-widget-label {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    font-family: Helvetica;
+    color: white;
+    text-shadow: black 0px 4px 3px 0px;
+    background-color: rgba(10,10,10,0.7);
+}
