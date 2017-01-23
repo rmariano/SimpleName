@@ -1,7 +1,7 @@
 SimpleNAme
 ==========
 
-SimpleNAme is a `gnome-shell` extension (for the new gnome shell, versions > 3),
+SimpleNAme is a ``gnome-shell`` extension (for the new gnome shell, versions > 3),
 that shows the name of the current user on the upper right hand corner of the
 screen, remembering the old setups of previous window managers.
 
